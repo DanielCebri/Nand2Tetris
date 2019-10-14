@@ -2,7 +2,8 @@
 Creamos nuestro primer microprocesador
 
 **Creamos nuestros primeros chips 07/10/2019**
-**Puertas Lógicas
+
+*Puertas Lógicas
  *AND
  *NOT
  *OR
